@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Agu+Display&family=Playwrite+HR+Lijeva:wght@100..400&family=Yuji+Mai&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Agu+Display&family=Anton&family=Playwrite+HR+Lijeva:wght@100..400&family=Yuji+Mai&display=swap');
+.ma-classe{
+	color: #663399;
+}
+
+.ma-classe2{
+	color: #FF0000;
+}
+
+.elem3 {
+font-size: 2em;
+}
+
+.balise
+{
+    font-family: futura;
+}
+
+.liste{
+  font-family: Agu display;
+  font-weight: 400;
+  }
+.phrase{
+  font-family: Anton;
+  font-weight: 400;
+  }
+
+  body {
+	background-color: #8FBC8F
+}
